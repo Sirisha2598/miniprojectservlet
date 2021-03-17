@@ -13,18 +13,9 @@ public class Player {
 	private String nationality;
 	private double powerRating;
 	private int teamId;
-	
-	
-	
-	
-	
 	public Player() {
 		super();
 	}
-	
-	
-	
-	
 	public Player(int playerId, String name, String ppno, String skill, int numberOfMatches, int runs, int wickets,
 			String nationality, double powerRating, int teamId) {
 		super();
